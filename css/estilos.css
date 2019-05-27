@@ -16,6 +16,14 @@ body
     margin: 0 auto;
 }
 
+#cabecera 
+{
+    width: 50%;
+    border: azul;
+    
+
+}
+
 #container h1
 {
     font-size: 20px;
