@@ -25,8 +25,7 @@ body
     vertical-align: middle;
 }
 
-#cabecera #tagline
-{
+#cabecera #tagline {
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
@@ -41,8 +40,7 @@ body
     margin: 0 auto;
 }
 
-#container h1
-{
+#container h1 {
     font-size: 20px;
 }
 #post
